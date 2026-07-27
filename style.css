@@ -1,0 +1,26 @@
+@font-face{
+    src: url(fonts/Wallpoet-Regular.ttf);
+    font-family: Wallpoet;
+}
+body{
+    background-color: rgb(9, 8, 68);
+}
+h2{
+    font-family:Audiowide;
+    color: aqua;
+}
+h4{
+    font-size: 12px;
+    color: aqua;
+    font-family:Audiowide;
+}
+h3{
+    color: aqua;
+    font-family:Audiowide;
+    font-size: 15px;
+}
+pre{
+    font-family: Wallpoet;
+    font-size: 14px;
+    color: rgb(4, 4, 194);
+}
