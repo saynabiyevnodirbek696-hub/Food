@@ -1,26 +1,35 @@
-@font-face{
-    src: url(fonts/Wallpoet-Regular.ttf);
-    font-family: Wallpoet;
-}
 body{
-    background-color: rgb(9, 8, 68);
+    background-color: black;
 }
-h2{
-    font-family:Audiowide;
-    color: aqua;
+#box1{
+    float: right;
+    border: solid 2px rgb(20, 18, 18);
+    border-radius: 15px;
+    padding: 25px;
+    padding-top: 0px;
+    background-color: rgb(20, 18, 18);
+}
+img{
+    width: 300px;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 h4{
-    font-size: 12px;
-    color: aqua;
-    font-family:Audiowide;
+    display: inline;
 }
-h3{
-    color: aqua;
-    font-family:Audiowide;
-    font-size: 15px;
+.group1{
+    text-decoration: none;
+    color: rgb(109, 97, 97);
 }
-pre{
-    font-family: Wallpoet;
-    font-size: 14px;
-    color: rgb(4, 4, 194);
+.group1:hover{
+    text-decoration: underline;
+    color: rgb(206, 211, 215);
+}
+#id1{
+    text-decoration: none;
+}
+#id1:hover{
+    text-decoration: underline;
+    color: rgb(206, 211, 215);;
 }
