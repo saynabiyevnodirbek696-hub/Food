@@ -1,0 +1,42 @@
+body{
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+    margin: 0px;
+}
+form input{
+    border-radius: 3px;
+    margin: 3px;
+}
+div{
+    background-color: white;
+    display: block;
+
+}
+.box{
+    width: 50%;
+    height: 1000px;
+    margin-top: 0px;
+    padding: 0px;
+    float: right;
+    text-align: center;
+    padding-top: 17%;
+    border-top-right-radius: 10px;
+}  
+h2{
+    
+    display: inline;
+    color: black; 
+    padding: 0px;
+    margin: 0px;
+}
+h4{
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    color: white;
+    float: left;
+    margin-top: 20%;
+    margin-left: 16%;    
+}
